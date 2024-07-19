@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varadraj8736" alt="varadraj8736" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m a **Full Stack developer**
 
 - 🔭Intrested in **learning DSA to solve real world problems**
 
